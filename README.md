@@ -7,9 +7,9 @@
 ## Connect with me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=winner108" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=winner108" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=solarstormgaming" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=solarstormgaming" height="150" alt="languages graph"  />
 </div>
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🏆+Github+Trophies&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=winner108&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=solarstormgaming&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" />
